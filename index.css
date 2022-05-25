@@ -1,0 +1,136 @@
+body,html{
+    margin: 0;
+    padding: 0;
+}
+.hello{
+    display: flex;
+    justify-content: space-evenly;
+}
+.dateStyle{
+    font-weight: bold;
+    font-size: 3rem;
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header{
+    font-weight: lighter;
+    color: #707070;
+    font-size: 3rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.header2{
+    font-weight: lighter;
+    color: #707070;
+    font-size: 2rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h1{
+    text-align: center;
+}
+i{
+    background-color: #E74C3C;
+    font-size: 1.5rem;
+    color: white;
+    border-radius: 100%;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+.hello2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box{
+    height: 330px;
+    width: 200px;
+    border: 1px solid #E74C3C;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 10px 10px 10px #D9D9D9;
+}
+.paris{
+    color: #E74C3C;
+    font-size: 1.6rem;
+    margin: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.comp{
+    color: #E74C3C;
+    text-decoration: line-through;
+    font-size: 1.5rem;
+}
+.hi{
+    font-size: x-large;
+}
+
+
+input{
+    border-radius: 5px;
+    border: 1px solid #E74C3C;
+
+}
+button{
+    background-color: #E74C3C;
+    border-radius: 20px;
+    border: solid #E74C3C;
+    width: 70px;
+    margin: 0;
+    position: absolute;
+    left: 140px;
+}
+.bdr{
+    height: 170px;
+    width: 350px;
+    border: #E74C3C 1px solid;
+    border-radius: 10px;
+    text-align: center;
+    position: absolute;
+    top: 260px;
+    left: 390px;
+    box-shadow: 20px 20px 20px #D9D9D9;
+    
+}
+.none{
+    text-decoration: none;
+    
+}
+hr{
+    text-decoration: none;
+    color: #D9D9D9;
+}
+span{
+    color: black;
+}
+
+.banni{
+    position: absolute;
+    left: 500px;
+}
+
+.jai{
+    position: absolute;
+    padding: 120px;
+    left: 250px;
+}
+
+.box2{
+    height: 430px;
+    width: 380px;
+    border: 1px solid #E74C3C;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 10px 10px 10px #D9D9D9;
+    position: relative;
+    margin: auto;
+    right:120px;
+}
+#shanu{
+    position: absolute;
+    left: 680px;
+   bottom: 50px;
+}
+
+.vid{
+    filter: blur(4px);
+}
